@@ -371,3 +371,108 @@ Received Import Request.
   path: Assets/3D Game Kit - Environment Pack/Models/AIControl.cs
   artifactKey: Guid(a66b44a07640b42eab1c53d3a5c62b85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/3D Game Kit - Environment Pack/Models/AIControl.cs using Guid(a66b44a07640b42eab1c53d3a5c62b85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '752d22282bdb86451b47a182de5b9832') in 0,000600 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 408,052265 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79842766b460edbeab6a34051e857a80') in 0,000769 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6,896503 seconds.
+  path: Assets/Radar
+  artifactKey: Guid(7365f1ad17ba8b852bad70f64daf1c1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Radar using Guid(7365f1ad17ba8b852bad70f64daf1c1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b4a64c92faa5ef1f05339ca8399da8d') in 0,001820 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13,898870 seconds.
+  path: Assets/Radar.cs
+  artifactKey: Guid(3bada59cb69eddb018610ac55bf6d98a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Radar.cs using Guid(3bada59cb69eddb018610ac55bf6d98a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4bac4b66000e3e71c4cf4ac3f859dbb') in 0,000620 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,008127 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /media/data/Unity projects/The-observer-pattern/The observer pattern/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /media/data/Unity projects/The-observer-pattern/The observer pattern/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0,61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,105 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1105ms)
+		BeginReloadAssembly (146ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (47ms)
+		EndReloadAssembly (858ms)
+			LoadAssemblies (81ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (304ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (49ms)
+			SetupLoadedEditorAssemblies (378ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (38ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (85ms)
+				ProcessInitializeOnLoadAttributes (223ms)
+				ProcessInitializeOnLoadMethodAttributes (24ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1,28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 3061 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 18 unused Assets / (0,5 MB). Loaded Objects now: 3553.
+Memory consumption went from 108,3 MB to 107,8 MB.
+Total: 4,148660 ms (FindLiveObjects: 0,261870 ms CreateObjectMapping: 0,122260 ms MarkObjects: 3,418335 ms  DeleteObjects: 0,344414 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 102,100186 seconds.
+  path: Assets/Radar/arrow-up-icon.png
+  artifactKey: Guid(e15acd488f0b21d01ae35820a9182235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Radar/arrow-up-icon.png using Guid(e15acd488f0b21d01ae35820a9182235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6687845b9cfdc095359b397496cc2b80') in 0,066429 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5,255190 seconds.
+  path: Assets/Radar/arrow-up-icon.png
+  artifactKey: Guid(e15acd488f0b21d01ae35820a9182235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Radar/arrow-up-icon.png using Guid(e15acd488f0b21d01ae35820a9182235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e621acc27bd98fb30d6c1ec83ae0f17e') in 0,056625 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0,000114 seconds.
+  path: Assets/Radar/background.png
+  artifactKey: Guid(5ba27b23b69cabaabaa91e18c55f886c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Radar/background.png using Guid(5ba27b23b69cabaabaa91e18c55f886c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29f01cb5d039ee9422b36754cd3f514a') in 0,013075 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4,093089 seconds.
+  path: Assets/Radar/eggicon.png
+  artifactKey: Guid(abd81ed4cf4ec6138b415dcbb64367d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Radar/eggicon.png using Guid(abd81ed4cf4ec6138b415dcbb64367d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdeed0607dc4b32ffade345cd730c18a') in 0,009347 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 537,202335 seconds.
+  path: Assets/Radar/EggIcon.prefab
+  artifactKey: Guid(c14cc4d701a81e144874a7dfa4838202) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Radar/EggIcon.prefab using Guid(c14cc4d701a81e144874a7dfa4838202) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c38cbcd350875272a6951eb1f8dfa5dc') in 0,027530 seconds 
