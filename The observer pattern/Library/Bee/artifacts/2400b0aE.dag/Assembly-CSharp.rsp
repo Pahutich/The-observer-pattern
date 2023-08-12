@@ -347,6 +347,7 @@
 "Assets/3D Game Kit - Environment Pack/Models/AIControl.cs"
 "Assets/Radar/Event.cs"
 "Assets/Radar/EventListener.cs"
+"Assets/Radar/Item.cs"
 "Assets/Radar/Radar.cs"
 "Assets/Radar/Spawner.cs"
 "Assets/Scripts/CameraFollow360.cs"
